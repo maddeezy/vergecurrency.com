@@ -1,0 +1,30 @@
+# build output
+dist
+.next
+out/
+docs/*
+!docs/.nojekyll
+!docs/CNAME
+
+# dependencies
+node_modules
+deploy_key
+
+# lockfiles
+# (don't ignore when ready for production)
+package-lock.json
+
+# logs
+*.log
+
+# coverage
+.nyc_output
+
+# test output
+test/**/out
+.DS_Store
+locales/**/*.missing.json
+
+# IDE specific
+.vscode/
+/.idea/

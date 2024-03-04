@@ -1,0 +1,153 @@
+{
+  "executive": {
+    "title": "Executive Team",
+    "members": [
+      {
+        "img": "../static/img/team/sunerok.jpg",
+        "name": "Justin Valo - Sunerok",
+        "role": "Founder, Lead Software Engineer",
+        "occupation": "Network Security & Blockchain Expert",
+        "github": "https://github.com/justinvforvendetta",
+        "twitter": "https://twitter.com/justinvendetta",
+        "location": "Florida, USA"
+      },
+      {
+        "img": "../static/img/team/mihael.jpg",
+        "name": "Mihael Radoslovic",
+        "role": "Internal & External Communications",
+        "occupation": "Director of Operations",
+        "twitter": "https://twitter.com/itsmihael",
+        "location": "Rijeka, Croatia"
+      },
+      {
+        "img": "../static/img/team/mark.jpg",
+        "name": "Mark Wittenberg",
+        "role": "Business Development Strategist",
+        "occupation": "Finance / Credit Specialist",
+        "twitter": "https://twitter.com/vergecanada",
+        "twitter_alt": "https://twitter.com/itsmwittenberg",
+        "location": "Alberta, Canada"
+      }
+    ]
+  },
+  "businessdevelopment": {
+    "title": "Business Development",
+    "members": [
+      {
+        "img": "../static/img/team/cc66.jpg",
+        "name": "Jason - CC66",
+        "role": "Senior Community Manager",
+        "occupation": "Social Engineering Specialist",
+        "twitter": "https://twitter.com/CoinCrazy66",
+        "location": "Tennessee, USA"
+      },
+      {
+        "img": "../static/img/team/hoffma.jpg",
+        "name": "Nick",
+        "role": "Business Development",
+        "location": "Passau, Germany"
+      }
+    ]
+  },
+  "marketing": {
+    "title": "Marketing Team",
+    "members": [
+      {
+        "img": "../static/img/team/derek.jpg",
+        "name": "Derek",
+        "role": "Fueled By Verge - Outreach",
+        "occupation": "Entrepreneur",
+        "twitter": "https://twitter.com/141mx",
+        "location": "Canada"
+      },
+	  {
+        "img": "../static/img/team/bane.jpg",
+        "name": "Jake - Bane",
+        "role": "Social Media / Marketing  / Outreach",
+        "occupation": "Data Analyst",
+        "twitter": "https://twitter.com/Bane420XVG",
+        "location": "Detroit, Michigan USA"
+      },
+      {
+        "img": "../static/img/team/maria.jpg",
+        "name": "Maria Dias",
+        "role": "Social Media / Marketing",
+        "twitter": "https://twitter.com/maria___dias",
+        "location": "Portugal"
+      },
+      {
+        "img": "../static/img/team/grandpriest.jpg",
+        "name": "Vivek - Grandpriest",
+        "role": "Advisor & Marketing",
+        "twitter": "https://twitter.com/cryptooza",
+        "location": "India"
+      },
+	  {
+        "img": "../static/img/team/tran.png",
+        "name": "Tran - Justin",
+        "role": "Social Media",
+		"occupation": "Plumber/Welder",
+		"twitter": "https://twitter.com/TranJ87 ",
+        "location": "Ontario, Canada"
+      }
+    ]
+  },
+  "advisor": {
+    "title": "Advisors",
+    "members": [
+      {
+        "img": "../static/img/team/swizzlesticks.jpg",
+        "name": "Lloyd - Swizzlesticks",
+        "role": "Senior Content Manager",
+        "occupation": "Owner/CEO - Managed Services Provider",
+        "twitter": "https://twitter.com/3wizzlesticks",
+        "location": "Kentucky, USA"
+      },
+      {
+        "img": "../static/img/team/birb.jpg",
+        "name": "Dan - wit_sec_birb",
+        "role": "Advisor & Marketing",
+        "occupation": "Procurement",
+        "twitter": "https://twitter.com/wit_sec_birb",
+        "location": "Melbourne, Australia"
+      },
+      {
+        "img": "../static/img/team/harry.jpg",
+        "name": "Harry",
+        "role": "General Advisor",
+        "occupation": "Venture Advisor",
+        "twitter": "https://twitter.com/XVGHS",
+        "location": "British Columbia, Canada"
+      }
+    ]
+  },
+  "media": {
+    "title": "Multimedia",
+    "members": [
+      {
+        "img": "../static/img/team/thecryptocamel.jpg",
+        "name": "TheCryptoCamel",
+        "role": "Video Production",
+        "occupation": "Master Distiller",
+        "twitter": "https://twitter.com/TheCryptoCamel",
+        "location": "Washington, USA"
+      },
+      {
+        "img": "../static/img/team/pedro.jpg",
+        "name": "Pedro",
+        "role": "3D Graphics & Animation",
+        "occupation": "Mechanical Engineer",
+        "twitter": "https://twitter.com/xvgpedro",
+        "location": "Porto, Portugal"
+      },
+      {
+        "img": "../static/img/team/cityboi.jpg",
+        "name": "Cityboi",
+        "role": "Graphics Designer",
+        "occupation": "Graphics Designer",
+        "twitter": "https://twitter.com/CBoisss",
+        "location": "The Netherlands"
+      }
+    ]
+  }
+}

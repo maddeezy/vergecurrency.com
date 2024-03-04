@@ -1,0 +1,136 @@
+{
+  "wallets": [
+    {
+      "name": "Download your wallet",
+      "url": "/wallets",
+      "className": "",
+      "classWhite": "",
+      "available": true,
+      "os": "all"
+    },
+    {
+      "name": "Apple iOS Wallet",
+      "url": "https://itunes.apple.com/us/app/id1459928869",
+      "classNames": "wallets--icon__apple wallets--icon__apple--tor",
+      "classWhite": "wallets--icon__apple-white wallets--icon__apple--tor-white",
+      "available": true,
+      "os": "iOS",
+      "url2": "https://vergesupport.altervista.org/knowledge-base/install-and-configure-your-ios-wallet/",
+      "availableinstructions": true
+    },
+    {
+      "name": "Android Orbot Wallet",
+      "url": "https://play.google.com/store/apps/details?id=com.vergepay.wallet",
+      "classNames": "wallets--icon__android wallets--icon__android--tor",
+      "classWhite": "wallets--icon__android-white wallets--icon__android--tor-white",
+      "available": true,
+      "os": "Android",
+      "url2": "https://www.youtube.com/watch?v=K26u9_Qg9_E",
+      "availableinstructions": true
+    },
+    {
+      "name": "Paper Wallet",
+      "url": "https://github.com/vergecurrency/vergecurrency.com/raw/master/pages/paper-wallet/xvg-paperwallet.zip",
+      "classNames": "wallets--icon__paperwallet",
+      "classWhite": "wallets--icon__paperwallet-white",
+      "available": true,
+      "os": "",
+      "url2": "https://vergecurrency.com/paper-wallet/",
+      "availableinstructions": true
+    },
+    {
+      "name": "QT Wallet Windows",
+      "url": "https://github.com/vergecurrency/VERGE/releases/latest",
+      "classNames": "wallets--icon__windows wallets--icon__windows--tor",
+      "classWhite": "wallets--icon__windows-white wallets--icon__windows--tor-white",
+      "available": true,
+      "os": "Windows",
+      "url2": "https://verge.zendesk.com/hc/en-us/articles/360007059592-Verge-Qt-Wallet-Installation-Guide-for-Windows",
+      "availableinstructions": true
+    },
+    {
+      "name": "QT Wallet macOS",
+      "url": "https://github.com/vergecurrency/VERGE/releases/latest",
+      "classNames": "wallets--icon__apple wallets--icon__apple--tor",
+      "classWhite": "wallets--icon__apple-white wallets--icon__apple--tor-white",
+      "available": true,
+      "os": "OS X",
+      "url2": "https://verge.zendesk.com/hc/en-us/articles/360007364291-Verge-Qt-Wallet-Installation-Guide-for-Mac",
+      "availableinstructions": true
+    },
+    {
+      "name": "QT Wallet Linux",
+      "url": "https://github.com/vergecurrency/VERGE/releases/latest",
+      "classNames": "wallets--icon__linux wallets--icon__linux--tor",
+      "classWhite": "wallets--icon__linux-white wallets--icon__linux--tor-white",
+      "available": true,
+      "os": "Ubuntu",
+      "url2": "https://github.com/vergecurrency/VERGE/blob/master/doc/build-unix.md",
+      "availableinstructions": true
+    },
+
+    {
+      "name": "MyVergies Windows 1.0.3",
+      "url": "https://github.com/vergecurrency/MyVergies/releases/download/v1.0.3/MyVergies-Setup-1.0.3.exe",
+      "classNames": "wallets--icon__windows wallets--icon__windows--tor",
+      "classWhite": "wallets--icon__windows-white wallets--icon__windows--tor-white",
+      "available": true,
+      "os": "Windows",
+      "availableinstructions": false
+    },
+    {
+      "name": "MyVergies macOS 1.0.3",
+      "url": "https://github.com/vergecurrency/MyVergies/releases/download/v1.0.3/MyVergies-1.0.3.dmg",
+      "classNames": "wallets--icon__apple wallets--icon__apple--tor",
+      "classWhite": "wallets--icon__apple-white wallets--icon__apple--tor-white",
+      "available": true,
+      "os": "OS X",
+      "availableinstructions": false
+    },
+    {
+      "name": "MyVergies Linux AppImage 1.0.3",
+      "url": "https://github.com/vergecurrency/MyVergies/releases/download/v1.0.3/MyVergies-1.0.3.AppImage",
+      "classNames": "wallets--icon__linux wallets--icon__linux--tor",
+      "classWhite": "wallets--icon__linux-white wallets--icon__linux--tor-white",
+      "available": true,
+      "os": "Ubuntu",
+      "availableinstructions": false
+    },
+    {
+    "name": "MyVergies Linux Snap 1.0.3",
+      "url": "https://github.com/vergecurrency/MyVergies/releases/download/v1.0.3/MyVergies_1.0.3_amd64.snap",
+      "classNames": "wallets--icon__linux wallets--icon__linux--tor",
+      "classWhite": "wallets--icon__linux-white wallets--icon__linux--tor-white",
+      "available": true,
+      "os": "Ubuntu",
+      "availableinstructions": false
+    },
+    {
+      "name": "MacOS Tor Electrum Wallet",
+      "url": "https://github.com/vergecurrency/electrum/releases/latest",
+      "classNames": "wallets--icon__apple wallets--icon__apple--tor",
+      "classWhite": "wallets--icon__apple-white wallets--icon__apple--tor-white",
+      "available": true,
+      "os": "OS X",
+      "availableinstructions": false
+    },
+    {
+      "name": "Windows Tor Electrum Wallet",
+      "url": "https://github.com/vergecurrency/electrum/releases/latest",
+      "classNames": "wallets--icon__windows wallets--icon__windows--tor",
+      "classWhite": "wallets--icon__windows-white wallets--icon__windows--tor-white",
+      "available": true,
+      "os": "Windows",
+      "availableinstructions": false
+    },
+    {
+      "name": "Linux Tor Electrum Wallet",
+      "url": "https://github.com/vergecurrency/electrum/releases/latest",
+      "classNames": "wallets--icon__linux wallets--icon__linux--tor",
+      "classWhite": "wallets--icon__linux-white wallets--icon__linux--tor-white",
+      "available": true,
+      "os": "Ubuntu",
+      "availableinstructions": false
+    }
+  ]
+}

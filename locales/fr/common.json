@@ -1,0 +1,30 @@
+{
+  "USPs": {
+    "first": {
+      "header": "Une <span> crypto-monnaie</span> conçu <br> pour l'usage quotidien.",
+      "text": "Améliorer la blockchain Bitcoin originale et vise à atteindre son objectif initial."
+    },
+    "second": {
+      "header": "Faire entrer <span>  la technologie blockchain </ span> dans la vie de tous les jours.",
+      "text": " Verge currency permet d'effectuer des transactions directes."
+    },
+    "third": {
+      "header": "Développement Open Source & <span> Axé sur la communauté </ span>",
+      "text": "Verge n'est pas une entreprise privée financée par des pièces pré-minées ou des ICO."
+    },
+	"fourth": {
+      "header": "Une équipe, Deux chaînes, <br>& <span>Utilisation illimitée.</span>",
+      "text": "Présentation du dernier ajout à l'écosystème Verge, le jeton Verge ERC-20 sur Ethereum. Élargir les possibilités pour les gens ordinaires d'utiliser Verge, sans aucun problème"
+    }
+  },
+  "texts": {    
+    "open": "Verge Currency est un projet 100% open-source, et la communauté mondiale Verge représente la main-d'œuvre qui la propulse. Verge n'est pas une entreprise, il n'y avait pas d'ICO lors du lancement et aucun pré-minage n'a eu lieu. Tous les contributeurs, y compris l'équipe principale, sont des bénévoles non rémunérés qui consacrent leur temps et leur énergie au projet car ils sont passionnés et croient en Verge.",
+    "use": "Verge est une crypto-monnaie sécurisée et anonyme, conçue pour un usage quotidien.",
+    "grassroots": "La culture de base est ce qui fait de Verge <span className=hidden-xs><br /></span> une crypto-monnaie unique et dynamique"
+    },
+  "vendors": {
+    "text1": "Tous les fournisseurs ci-dessous acceptent fièrement Verge Currency comme méthode de paiement pour leurs biens et services.",
+    "text2": "Commencez dès aujourd'hui et acceptez Verge dans votre magasin!",
+    "text3": "Accepter Verge aujourd'hui" 
+  }
+}

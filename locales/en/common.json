@@ -1,0 +1,30 @@
+{
+  "USPs": {
+    "first": {
+      "header": "A <span>digital currency</span> designed <br>for everyday transactions.",
+      "text": "Our network provides world class features to ensure our users are able to send and receive digital payments quickly, safely, and securely."
+    },
+    "second": {
+      "header": "Bringing <span>blockchain</span> <br>into everyday life.",
+      "text": "Simplified digital payments through our vPay applications powered by blockchain technology."
+    },
+    "third": {
+      "header": "Open Source Development <br>& <span>Community Driven.</span>",
+      "text": "We are proud to be 100% open-source. Our project is run entirely by volunteer community members and dedicated indiviudals who wish to make a difference in the world."
+    },
+	"fourth": {
+      "header": "One Team, Two Chains, <br>& <span>Unlimited Usecases.</span>",
+      "text": "Introducing the latest addition to the Verge ecosystem, the Verge ERC-20 token on Ethereum. Expanding the possibilities for everyday people to use Verge, without any hassle!"
+    }
+  },
+  "texts": {
+    "open": "Verge Currency is a 100% open-source project, and the global Verge Community represents the manpower driving it forward. Verge is not a company, there was no ICO held upon the launch and no pre-mining took place. All contributors, including the Core Team, are unpaid volunteers who donate their time and energy into the project because they are passionate and believe in Verge.",
+    "use": "Verge is a secure and user-friendly digital currency, built for everyday transactions.",
+    "grassroots": "The grassroots culture is what makes Verge <span className=hidden-xs><br /></span> unique and dynamic."
+    },
+  "vendors": {
+    "text1": "All of the vendors below proudly accept Verge Currency as a method of payment for their goods and services.",
+    "text2": "Get started today and accept Verge in your store!",
+    "text3": "Accept Verge today"
+  }
+}

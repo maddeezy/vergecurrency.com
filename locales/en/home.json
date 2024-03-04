@@ -1,0 +1,67 @@
+{
+  "ribbon": {
+    "title": "A secure and user-friendly digital currency.",
+    "text1": "Built for everyday transactions.",
+    "text2": "Get started with Verge"
+
+  },
+  "mentioned": {
+    "mentioned_in": "Mentioned in"
+  },
+  "intro": {
+    "span": "Blockchain Solutions for Everyday use.",
+    "h2": "Verge provides the security of blockchain based payments to everyday users with easy to use software tailored to real life needs and applications.",
+    "p": "We strive to make blockchain payments effortless and convenient."
+  },
+  "benefits": {
+    "link": {
+      "title": "Expand benefits"
+    },
+    "benefit_1": {
+      "title": "EVERYDAY USE",
+      "text": "Verge provides an easy to use platform which enables everyday users to be able to transact quickly and efficiently across a blockchain based network."
+    },
+    "benefit_2": {
+      "title": "COMMUNITY DRIVEN",
+      "text": "Verge is an open source project with an active team of developers from all over the world. The development team is always in close contact with the community. Verge is not a private company funded through an ICO or premining."
+    },
+    "benefit_3": {
+      "title": "MASS ADOPTION",
+      "text": "Low fees, quick transactions, high volume in circulation, multiplatform support, Wraith Protocol are the ingredients that make Verge perfectly positioned for mass adoption."
+    },
+    "benefit_4": {
+      "title": "SECURITY"
+    }
+  },
+  "wallets": {
+    "link": {
+      "title": "Read About Our wallets"
+    },
+    "header": "Download your preferred vergePay wallet here:"
+  },
+  "mission": {
+    "header": "Empowering Everyday Users",
+    "text1": "Our mission is to <span>empower people</span> around the world by bringing blockchain transactions into <span>everyday life</span>. Verge makes it possible to engage in direct transactions quickly, efficiently and <span>securely</span>.",
+    "text2": "With Verge, businesses and individuals have flexible options for sending and receiving payments securely and efficiently all around the world in a matter of seconds."
+
+  },
+  "getverge": {
+    "text1": "Get Verge Today",
+    "text2": "See more exchanges",
+    "text3": "Trade Verge on the most popular exchanges.",
+    "text4": "We’re proud to be listed on:",
+    "text5": "See chart here"
+  },
+  "vendors": {
+    "super": "Accept Verge Currency",
+    "title": "Powering real world vendors that accept Verge Currency",
+    "buttonTertiary": "See all vendors here",
+    "text3": "Latest vendors to accept Verge"
+  },
+  "roadmap": {
+    "text1": "Full roadmap here"
+  },
+  "social": {
+    "header": "Get social with Verge. Be a part of the Verge community."
+  }
+}
